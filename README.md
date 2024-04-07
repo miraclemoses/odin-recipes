@@ -2,7 +2,6 @@
 _A detailed website on specific food and how to prepare it._ 
 
 ## Project Description
-This repo consisted of a main index page with links to a few recipes. This is a project that will be developing with time to become a responsive
-odin-recipes website.
+This repo consist of a main index page and folders with links to a few recipes. This is a project that will develop with time to become a responsive odin-recipes website.
 
-<a href='$'>more content loading............</a>
+<a href='https://github.com/miraclemoses/odin-recipes/edit/main/README.md'>more content loading............</a>
